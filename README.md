@@ -28,12 +28,12 @@ A passionate Mechatronics Engineer specialized in Embedded Systems, Robotics, an
 ![MATLAB](https://img.shields.io/badge/-Matlab-orange?style=for-the-badge&logo=Mathworks&logoColor=white)  
 
 **Embedded & Automation**  
-![ARM Cortex-M](https://img.shields.io/badge/ARM--Cortex--M4-blue?style=for-the-badge)  
-![TM4C123GH6PM](https://img.shields.io/badge/TM4C123GH6PM-Embedded-lightgrey?style=for-the-badge)  
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=for-the-badge)  
-![ROS](https://img.shields.io/badge/ROS-Framework-informational?style=for-the-badge&logo=ros&logoColor=white)  
-![TIA Portal](https://img.shields.io/badge/TIA--Portal-Siemens-green?style=for-the-badge)  
-![Simulink](https://img.shields.io/badge/Simulink-MATLAB-lightgrey?style=for-the-badge)
+[![ARM Cortex-M](https://img.shields.io/badge/ARM--Cortex--M4-blue?style=for-the-badge)](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m4)
+[![TM4C123GH6PM](https://img.shields.io/badge/TM4C123GH6PM-Embedded-lightgrey?style=for-the-badge)](https://www.ti.com/product/TM4C123GH6PM)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/)
+[![ROS](https://img.shields.io/badge/ROS-Framework-informational?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
+[![TIA Portal](https://img.shields.io/badge/TIA--Portal-Siemens-green?style=for-the-badge)](https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html)
+[![Simulink](https://img.shields.io/badge/Simulink-MATLAB-lightgrey?style=for-the-badge&logo=mathworks&logoColor=black)](https://www.mathworks.com/products/simulink.html)
 
 **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
