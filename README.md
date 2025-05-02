@@ -77,8 +77,8 @@ A passionate Mechatronics Engineer specialized in Embedded Systems, Robotics, an
 
 # 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-hassabou&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassabou&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedhh1218&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedhh1218&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
