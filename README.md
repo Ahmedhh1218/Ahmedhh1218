@@ -1,97 +1,88 @@
+<h1 align="center">Hi there 👋, I'm Ahmed Hassabou</h1>
+<h3 align="center">Mechatronics | Embedded Systems | Robotics Engineer</h3>
 
-# Ahmed Hisham Hassabou
+<h3 align="center">
+<img alt="robotics gif" src="https://user-images.githubusercontent.com/81301684/182623628-15a14c4e-7d9e-4c38-b7ab-2baf3409fcf0.gif" width="300"/>
+</h3>
 
-🚀 Welcome to my GitHub repository! Here, you can explore my journey as an engineering student, trainee, and enthusiast in the world of mechatronics, automation, and embedded systems. This repository showcases my experiences, skills, and projects that reflect my passion for technology and innovation. 💡
+---
 
-## About Me
+# 💫 About Me:
 
-- **Name:** Ahmed Hisham Hassabou
-- **Email:** Ahmed_hhassabou@outlook.com
-- **Phone:** +2 01207007007
-- **Education:** Dual Degree Engineering Student at Ain Shams University (iCHEP) & University of East London, Mechatronics and Automation Program (2019 – 2024), CGPA: 3.40 with Declaration of Honor, Rank: 9.
+A passionate Mechatronics Engineer specialized in Embedded Systems, Robotics, and Automation with strong experience in **automotive testing**, **real-time systems**, and **robotics software development**. I’m driven by challenges and innovation, with a strong foundation in **MATLAB/Simulink**, **ROS**, and **ARM microcontrollers**. I currently serve as a **Teaching Assistant** at Ain Shams University and an **Embedded Software Engineer** at Garraio, collaborating on cutting-edge automotive projects.
 
-## Experiences
+🔬 MSc & BSc in Mechatronics Engineering  
+🧪 Published Research on Time-Optimal Control for Granular Flow  
+🚗 Automotive Software Testing & AUTOSAR  
+🤖 Self-Driving Cars | ROS | Real-Time Embedded Systems  
+📚 Passionate about continuous learning & mentoring  
 
-### Mentor and Lecturer for Embedded Systems Training at Garraio LLC in Collaboration with Ain Shams University (Aug. 2024 – Present)
-- Provided instruction on C language, Embedded C, and ARM Architecture with practical applications on TivaC TM4C123.
-- Covered topics like GPIO, clock-source, SysTick timer, watchdog timer, interrupts, and UART.
+---
 
-### Teaching Assistant at Faculty of Engineering, Ain Shams University (Jul. 2024 – Present)
-- Conducted tutorials and lab sessions for courses like "Internet of Things" and "Design of Mechatronics."
-- Assessed student work and provided personalized academic support.
+# 🛠️ Tech Stack:
+**Languages & Tools**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/-Matlab-orange?style=for-the-badge&logo=Mathworks&logoColor=white)  
 
-## Courses & Certifications
+**Embedded & Automation**  
+![ARM Cortex-M](https://img.shields.io/badge/ARM--Cortex--M4-blue?style=for-the-badge)  
+![TM4C123GH6PM](https://img.shields.io/badge/TM4C123GH6PM-Embedded-lightgrey?style=for-the-badge)  
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-blue?style=for-the-badge)  
+![ROS](https://img.shields.io/badge/ROS-Framework-informational?style=for-the-badge&logo=ros&logoColor=white)  
+![TIA Portal](https://img.shields.io/badge/TIA--Portal-Siemens-green?style=for-the-badge)  
+![Simulink](https://img.shields.io/badge/Simulink-MATLAB-lightgrey?style=for-the-badge)
 
-### Diploma / Embedded Linux (Feb. 2024 –  Jul. 2024)
-- a rigorous Embedded Linux Diploma program encompassing 120 hours of comprehensive training. Proficient in Python and C++ programming languages, adept at Linux system administration, Bash scripting, and Raspberry Pi development. Skilled in Yocto for embedded Linux development, including device driver implementation. Additionally, gained familiarity with Rust programming language.
+**DevOps & Tools**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Jira](https://img.shields.io/badge/jira-%230A0FF9.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### Self-Driving Cars Specialization / University of Toronto (Oct. 2023 – May. 2024)
-- Completed specialized series of courses in Autonomous Vehicle Engineering, gaining hands-on experience with real data sets and CARLA simulator. Proficient in state-of-the-art practices like object detection, localization, and behavior planning, ready for roles in the self-driving car industry.
+---
 
-### Summer Training / ITI 6-Weeks Advanced Embedded Systems Track. (Aug. 2023 –  Sep. 2023)
-- a 6-week training program, totaling 160 hours, in the Advanced Embedded Systems Track at ITI. The training covered the following key topics: ARM Cortex M3/M4 Architecture & Core Peripherals. Exceptions, Interrupts & NVIC. SYSTICK & Real-time Concepts. Communication Protocols and DMA. Start-up Files and Bootloader.
+# 🚀 Featured Projects:
+- 🔧 **SmartBatch – IoT-Based Automation for Concrete Batching Plants**  
+  AWS IoT Core + Lambda + S3 + DynamoDB | Time-optimal stochastic control
 
-### Trainee at Garraio LLC (Jul. 2023 – Aug. 2023)
+- 🤖 **Hospital Sterilization Robot**  
+  ROS + RTOS + Wi-Fi GUI | Autonomous UV disinfection
 
-#### AutoSAR 🚗
-- Comprehensive training covering Automotive Software Architecture (AutoSAR).
-- Practical skills in AutoSAR implementation, SWCs, RTE, communication protocols (CAN), and AutoSAR configuration tools.
-- Expertise in diagnosing and handling errors within AutoSAR systems.
+- 🧠 **Image Classification with CIFAR-100**  
+  Multi-layer neural network using Python + TensorFlow
 
-#### Ethernet & CAN 🌐
-- In-depth knowledge of Ethernet network architecture, packet structure, and configuration.
-- Proficiency in CAN bus architecture, message frame formats, and troubleshooting techniques.
+- 🏎️ **Rotary Inverted Pendulum Control**  
+  LQR + MPC + Reinforcement Learning | MATLAB HIL Simulation
 
-#### ARM Microcontrollers 💻
-- Training focused on ARM Microcontroller development, particularly Tiva C series.
-- Practical experience in configuring and utilizing GPIO, UART, SPI, and I2C interfaces.
-- Proficiency in debugging and troubleshooting ARM Microcontroller-based systems.
+- ⚙️ **Industrial Automation Systems**  
+  Simulated PLC systems using TIA Portal & SIMATIC S7-1200 with HMI dashboards
 
-### Course / ROS (Robotic Operating Systems), Delft University of Technology, edX. (May. 2023 –  Jul. 2023)
-- Key Skills: ROS Essentials, URDF, GMapping, ROS MoveIt, Robot Vision.
-- Achievements: Completed 6 graded assignments, including a final project.
-- Project: Build a production line application with two industrial robot arms and a mobile robot.
+---
 
-### Diploma in Embedded Software Engineering (Jul. 2022 – Nov. 2022)
-- Full Embedded Systems Diploma covering various topics.
-- Developed projects involving stopwatch control ⏱️, fan speed regulation 🌬️, distance measuring 📏, and door locker security systems 🔐.
+# 🏆 Certifications:
+- 🎓 ISTQB CTFL 4.0 & Automotive Software Tester (CT-AUT)
+- 🎓 Mastering Embedded Systems (Learn-in-depth)
+- 🎓 Self-Driving Cars Specialization – University of Toronto (Coursera)
+- 🎓 ROS – Delft University of Technology (edX)
 
-### Summer Training at MTI Automotive Co. (May 2022 – Jun. 2022)
-- Introduction to various parts of cars, including petrol and hybrid vehicles 🚗.
-- Learned operations, from periodic services to critical repairs.
+---
 
-### Basic Industrial Automation Training at Schneider Electric (Jul. 2021 – Aug. 2021)
-- Overview of Automation, PLC hardware, and components 🏭.
-- Skills in ladder diagram (LD) on Unity Pro, function blocks, and markers.
+# 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hassabou)
 
-## Projects
+📧 Email: [ahmed_hhassabou@outlook.com](mailto:ahmed_hhassabou@outlook.com)  
+🌍 Location: New Cairo, Egypt
 
-I have worked on a variety of projects, showcasing my technical expertise and innovative thinking. Some notable projects include:
+---
 
-- **SmartBatch – IoT-Based Automation for Concrete Batching Plants** 💡
-- **Hospital Sterilization Semi-Autonomous Robot** 🦠
-- **Customizing QEMU x86 Images with Yocto** 🖥️
-- **Rotary Inverted Pendulum LQR Control** 🎛️
-- **Cortex M4 Educational Development Kit** 🛠️
-- **Image Search Engine with TensorFlow** 🔍
-- **Image Clustering Using K-means**
-- **Image Classification Using Multi-Layer Neural Network**
-- **ML Optimization Techniques Comparison**
-- **Power Window Real-Time Control** 💨
-- **Industrial Automation for Simulated Production System** 🏭
-- **Industrial Automation for Simulated Liquid Level System**
-- **ROS1-Powered Autonomous Car** 🚗
-- **Multi-Functional ARM Embedded System (Calculator, Timer, Stopwatch)**
-- **Mini – Production Line** 🏭
-- **Wind Turbine Pitch Control Mechanism** 🌬️
+# 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-hassabou&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassabou&layout=compact&theme=radical" height="180"/>
+</p>
 
-## Skills and Qualifications
+---
 
-- Leadership experience in team projects 🙌.
-- Proficient in various software programs and programming languages 💻.
-- **Software & Tools:** MATLAB, Simulink, SolidWorks, Inventor, Aurix Studio, Keil, Code Composer, Eclipse, IAR Workbench, STMCube, Ansys, EKTS, Factory IO, TIA Portal, VREP, Gazebo, Rviz, ROS Framework.
-- **Programming Languages:** C/C++, C#, Python, Lua, HTML, CSS, Ladder, SCL.
-- **Technical Skills:** Linux system programming, embedded Linux, ARM architecture, AutoSAR, Ethernet & CAN protocols, PID tuning, and more.
-- **Multilingual:** Proficiency in Arabic, English, French, and German 🌍.
-
-Feel free to explore my repositories to learn more about my work and interests in the field of mechatronics, automation, and embedded systems. If you have any questions or would like to collaborate, don't hesitate to reach out to me at Ahmed_hhassabou@outlook.com or on [GitHub](https://github.com/Ahmedhh1218). 📧
+<h3 align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+</h3>
