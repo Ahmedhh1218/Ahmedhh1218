@@ -308,20 +308,6 @@ timeline
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- Option 1: If stats load -->
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedhh1218&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedhh1218&layout=compact&theme=radical)
-
-<!-- If the above don't work, you can deploy your own by forking:
-     https://github.com/anuraghazra/github-readme-stats
-     Then use: https://YOUR-VERCEL-APP.vercel.app/api?username=Ahmedhh1218
--->
-
----
-
 ## 🎯 Current Focus
 
 ```
